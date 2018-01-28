@@ -1,0 +1,9 @@
+{
+  "realm": "RTPASSPORT",
+  "auth-server-url": "http://sso.digital.rt.ru/auth",
+  "ssl-required": "none",
+  "resource": "elk",
+  "credentials": {
+    "secret": "ea5a9802-7d64-4bb7-b2ac-1a120766691a"
+  }
+}
